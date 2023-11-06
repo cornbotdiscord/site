@@ -1,5 +1,5 @@
 # Version Info
-v0.1.0<br>
+v0.1.1 Stable<br>
 Not finished
 
 ## In planning
